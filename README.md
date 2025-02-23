@@ -1,5 +1,5 @@
-# .gitignore - Merged and Optimized
-# Based on various sources including Visual Studio, .NET, Rider, and macOS/Windows system files.
+# A general .gitignore file for .NET projects.
+# Based on various sources, including Visual Studio, .NET, Rider, and macOS/Windows system files.
 
 ##################
 # Environment & User-Specific Files #
